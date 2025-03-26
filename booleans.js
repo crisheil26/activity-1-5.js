@@ -1,12 +1,14 @@
-// Declare boolean variables
+// 1. Create Variable name (isJsProgrammingLanguage) & store true as a value.
 let isJsProgrammingLanguage = true;
-let isJsHard = false;
-//log the result
 console.log(isJsProgrammingLanguage);
+
+// 2. Create variable name (isJsHard) & store false as a value.
+let isJsHard = false;
 console.log(isJsHard);
 
-// Declare a favorite number
+// 3. Create variable name (favNumb) & store your favorite number inside.
 let favNumb = 26;
+console.log(favNumb);
 
-// Add favNumb with undefined
+// 4. Now Add favNumber with the value of undefined.
 let undefinedAddition = (favNumb + undefined);
