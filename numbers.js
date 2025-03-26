@@ -1,27 +1,31 @@
-// Declare favorite numbers
+// 1. Create Variable name (firstFavNum) & store your favorite number.
 const firstFavNum = 6;
-const secondFavNum = 26;
+consol.log(firstFavNum);
 
-//perform operations
+// 2. Create Variable name (secondFavNum) & store your second fav number.
+const secondFavNum = 26;
+consol.log(secondFavNum);
+
+// 3. Add (firstFavNum & secondFavNumber).
 const sum = favnumber1 + favnumber2;
 console.log(sum);
 
-//perform operations
+// 4. Subtract (firstFavNum & secondFavNumber).
 const difference = favnumber1 - favnumber2;
 console.log(difference);
 
-//perform operations
+// 5. Multiply (firstFavNum & secondFavNumber).
 const product = favnumber1 * favnumber2;
 console.log(product);
 
-//perform operations
+// 6. Divided (firstFavNum & secondFavNumber).
 const quotient = favnumber1 / favnumber2;
 console.log(quotient);
 
-//perform operations
+// 7. Check (firstFavNum Mod secondFavNumber).
 const reminder = favnumber1 % favnumber2;
 console.log(remainder);
 
-//perform operations
+// 8. Check the power of (firstFavNum) raise to secondFavNun.
 const power = favnumber1 ** favnumber2;
 console.log(power);
