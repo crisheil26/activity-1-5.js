@@ -16,6 +16,6 @@ console.log(favActorFirstName.toUpperCase());
 let message = "My favorite actor is " + uppercase;
 console.log(message + fullName.toUpperCase());
 
-// 6. Now append this message to the (message variable) his best show is Silicon Valley.
+// 6. Now append this message to the (message variable) 'his best show is Silicon Valley'.
 firstName += "his best show is Silicon Valley";
 console.log(firstName);
