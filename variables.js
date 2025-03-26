@@ -1,16 +1,15 @@
-// Declare variables
+// 1. Create variable name (name) & store your name.
 let name = "Althea";
-// Log variables to the console
 console.log("name");
-// Declare variables
+
+// 2. Create variable name (whatDoYouWannaBecomeInYourLife) & store "programmer"
 let whatDoYouWannaBecomeInYourLife = "programmer";
-// Log variables to the console
 console.log(" whatDoYouWannaBecomeInYourLife");
-// Declare variables
+
+// 3. Create variable name (gender) & store your gender.
 let gender = "female";
-// Log variables to the console
 console.log(" gender");
-// Declare variables
+
+// 4. Create variable name (facebookAcct) & store your Facebook Name.
 let twitterHandle = "althea";
-// Log variables to the console
 console.log("twitterHandle");
